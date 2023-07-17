@@ -6,9 +6,19 @@
     <description>Recent content in Tech on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why I choose Hugo for my blog site</title>
+      <title>8 Fallacies of Distributed Computing🚫</title>
+      <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/second/</link>
+      <pubDate>Sat, 15 Jul 2023 16:51:17 +0530</pubDate>
+      
+      <guid>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/second/</guid>
+      <description>&amp;ldquo;Mom! I read yet another random research paper that showed up on my Linkedin feed&amp;rdquo;
+So I was scrolling through my Linkedin feed when I came across yet another post by a wanna be tech influencer. Although this time the post was much better than those senseless, out-of-context content with an asthetic selfie🤡. The post recommended few interesting papers to read, so I read one of them and here I summarise it.</description>
+    </item>
+    
+    <item>
+      <title>Why I choose Hugo for my Blog site🚀</title>
       <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/first/</link>
       <pubDate>Mon, 10 Jul 2023 16:51:17 +0530</pubDate>
       

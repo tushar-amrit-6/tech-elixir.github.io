@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tech Elixir</title>
-    <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/</link>
-    <description>Recent content in Posts on Tech Elixir</description>
+    <title>Tech on Tech Elixir</title>
+    <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/tags/tech/</link>
+    <description>Recent content in Tech on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8 Fallacies of Distributed Computing🚫</title>
       <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/second/</link>
