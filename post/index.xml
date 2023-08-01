@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why is Redis so Fast🤯</title>
+      <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/third/</link>
+      <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
+      
+      <guid>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/third/</guid>
+      <description>&amp;ldquo;If I had a dollar for every time a techie suggested Redis to use as cache, I&amp;rsquo;ll be a millionaire&amp;rdquo;
+So what is Redis and why is it so popular among developers?! By definition, Redis is an open-source, in-memory data structure store. It serves as a fast, versatile, and persistent database, capable of storing various data types like strings, lists, sets, and more. Redis&amp;rsquo;s speed and simplicity make it an excellent choice for caching, real-time applications, and various use cases requiring rapid data access and manipulation.</description>
+    </item>
+    
     <item>
       <title>8 Fallacies of Distributed Computing🚫</title>
       <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/post/second/</link>
