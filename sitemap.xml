@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.techelixir.online/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/tags/databases/</loc>
+    <loc>/tags/databases/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/categories/distributed-systems/</loc>
+    <loc>/categories/distributed-systems/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/categories/internals/</loc>
+    <loc>/categories/internals/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/tags/tech/</loc>
+    <loc>/tags/tech/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/categories/tech/</loc>
+    <loc>/categories/tech/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/</loc>
+    <loc>/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/post/third/</loc>
+    <loc>/post/third/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/post/second/</loc>
+    <loc>/post/second/</loc>
     <lastmod>2023-07-15T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/tags/distributed-systems/</loc>
+    <loc>/tags/distributed-systems/</loc>
     <lastmod>2023-07-15T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2023-07-10T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/post/first/</loc>
+    <loc>/post/first/</loc>
     <lastmod>2023-07-10T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>www.techelixir.online/archives/</loc>
+    <loc>/archives/</loc>
   </url>
   
 </urlset>

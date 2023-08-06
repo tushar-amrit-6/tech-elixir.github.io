@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Distributed Systems on Tech Elixir</title>
-    <link>www.techelixir.online/tags/distributed-systems/</link>
+    <link>/tags/distributed-systems/</link>
     <description>Recent content in Distributed Systems on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="www.techelixir.online/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8 Fallacies of Distributed Computing🚫</title>
-      <link>www.techelixir.online/post/second/</link>
+      <link>/post/second/</link>
       <pubDate>Sat, 15 Jul 2023 16:51:17 +0530</pubDate>
       
-      <guid>www.techelixir.online/post/second/</guid>
+      <guid>/post/second/</guid>
       <description>&amp;ldquo;Mom! I read yet another random research paper that showed up on my Linkedin feed&amp;rdquo;
 So I was scrolling through my Linkedin feed when I came across yet another post by a wanna be tech influencer. Although this time the post was much better than those senseless, out-of-context content with an asthetic selfie🤡. The post recommended few interesting papers to read, so I read one of them and here I summarise it.</description>
     </item>
