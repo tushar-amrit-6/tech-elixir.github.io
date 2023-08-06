@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Tech Elixir</title>
-    <link>//techelixir.online/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="//techelixir.online/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributed Systems</title>
-      <link>//techelixir.online/categories/distributed-systems/</link>
+      <link>/categories/distributed-systems/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/categories/distributed-systems/</guid>
+      <guid>/categories/distributed-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internals</title>
-      <link>//techelixir.online/categories/internals/</link>
+      <link>/categories/internals/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/categories/internals/</guid>
+      <guid>/categories/internals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>//techelixir.online/categories/tech/</link>
+      <link>/categories/tech/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/categories/tech/</guid>
+      <guid>/categories/tech/</guid>
       <description></description>
     </item>
     

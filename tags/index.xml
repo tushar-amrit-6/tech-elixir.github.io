@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Tech Elixir</title>
-    <link>//techelixir.online/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="//techelixir.online/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Databases</title>
-      <link>//techelixir.online/tags/databases/</link>
+      <link>/tags/databases/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/tags/databases/</guid>
+      <guid>/tags/databases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>//techelixir.online/tags/tech/</link>
+      <link>/tags/tech/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/tags/tech/</guid>
+      <guid>/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Systems</title>
-      <link>//techelixir.online/tags/distributed-systems/</link>
+      <link>/tags/distributed-systems/</link>
       <pubDate>Sat, 15 Jul 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/tags/distributed-systems/</guid>
+      <guid>/tags/distributed-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>//techelixir.online/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Mon, 10 Jul 2023 16:51:17 +0530</pubDate>
       
-      <guid>//techelixir.online/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
