@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Tech Elixir</title>
-    <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/</link>
+    <link>www.techelixir.online/categories/</link>
     <description>Recent content in Categories on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="www.techelixir.online/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributed Systems</title>
-      <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/distributed-systems/</link>
+      <link>www.techelixir.online/categories/distributed-systems/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/distributed-systems/</guid>
+      <guid>www.techelixir.online/categories/distributed-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internals</title>
-      <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/internals/</link>
+      <link>www.techelixir.online/categories/internals/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/internals/</guid>
+      <guid>www.techelixir.online/categories/internals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/tech/</link>
+      <link>www.techelixir.online/categories/tech/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>https://tushar-amrit-6.github.io/tech-elixir.github.io/categories/tech/</guid>
+      <guid>www.techelixir.online/categories/tech/</guid>
       <description></description>
     </item>
     
