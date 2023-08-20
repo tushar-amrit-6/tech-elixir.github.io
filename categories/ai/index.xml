@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Tech Elixir</title>
+    <link>/categories/ai/</link>
+    <description>Recent content in AI on Tech Elixir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew Ng&#39;s Prompt Engineering Course🧑🏻‍🎓</title>
+      <link>/post/andrew-ng-prompt-engineering/</link>
+      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      
+      <guid>/post/andrew-ng-prompt-engineering/</guid>
+      <description>I wasted a day of my weekend to take up a course about writing prompt to ChatGPT🤡 Now I am writing a blog about what I learnt. I don&amp;rsquo;t know why I am doing this, I don&amp;rsquo;t why I completed that course. At this point I don&amp;rsquo;t even know what I am doing with my life. I need some serious soul-searching. I hope this is just another phase for my charater development and nothing more.</description>
+    </item>
+    
+  </channel>
+</rss>

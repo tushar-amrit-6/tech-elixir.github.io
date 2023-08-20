@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ai/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/andrew-ng-prompt-engineering/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tech/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-08-20T16:51:17+05:30</lastmod>
   </url>
   
   <url>
@@ -19,31 +59,6 @@
   
   <url>
     <loc>/categories/internals/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tech/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/tech/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
