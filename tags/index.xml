@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>/tags/ai/</link>
-      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      <title>DB</title>
+      <link>/tags/db/</link>
+      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/tags/ai/</guid>
+      <guid>/tags/db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
       <link>/tags/tech/</link>
-      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
       
       <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      
+      <guid>/tags/ai/</guid>
       <description></description>
     </item>
     

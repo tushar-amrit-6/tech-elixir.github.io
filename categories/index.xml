@@ -6,22 +6,31 @@
     <description>Recent content in Categories on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI</title>
-      <link>/categories/ai/</link>
-      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      <title>DB</title>
+      <link>/categories/db/</link>
+      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/categories/ai/</guid>
+      <guid>/categories/db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
       <link>/categories/tech/</link>
-      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
       
       <guid>/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>/categories/ai/</link>
+      <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
+      
+      <guid>/categories/ai/</guid>
       <description></description>
     </item>
     

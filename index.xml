@@ -6,7 +6,16 @@
     <description>Recent content on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s up with DuckDB🦆</title>
+      <link>/post/duckdb/</link>
+      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
+      
+      <guid>/post/duckdb/</guid>
+      <description>I was exploring the vector database world after my day job when I came across ChromaDB which recently raised a seed funding of 20 mils 💸. Digging deep into chroma led me to DuckDB as these mfs at Chroma are selling a wrapper on an already matured OLAP DB (DuckDB) with hnswlib. Just for context, hnswlib is a C++/Python library for fast calculation of approximate nearest neighbors (ANN). I&amp;rsquo;ll take more about vector DBs some other day when I&amp;rsquo;ll hopefully use it in my side project.</description>
+    </item>
+    
     <item>
       <title>Andrew Ng&#39;s Prompt Engineering Course🧑🏻‍🎓</title>
       <link>/post/andrew-ng-prompt-engineering/</link>
