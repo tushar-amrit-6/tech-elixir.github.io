@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Tech Elixir</title>
-    <link>/tags/hugo/</link>
+    <link>https://techelixir.online/tags/hugo/</link>
     <description>Recent content in Hugo on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://techelixir.online/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I choose Hugo for my Blog site🚀</title>
-      <link>/post/why-i-choose-hugo/</link>
+      <link>https://techelixir.online/post/why-i-choose-hugo/</link>
       <pubDate>Mon, 10 Jul 2023 16:51:17 +0530</pubDate>
       
-      <guid>/post/why-i-choose-hugo/</guid>
+      <guid>https://techelixir.online/post/why-i-choose-hugo/</guid>
       <description>&amp;ldquo;GatsbyJS brings in the power of React and GraphQL and SSR to my website&amp;rdquo;
 My dear sweet, innocent dev, do you really need this for a simple blog (which gonna be dead after 3 post)!?🤡
 In my quest for the perfect static site generator, I made a deliberate choice to utilize Hugo instead of modern JavaScript frameworks like Next.js or Gatsby. The decision was based on a multitude of reasons, starting with Hugo&amp;rsquo;s exceptional ⚡️ speed and performance.</description>

@@ -2,55 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech Elixir</title>
-    <link>/</link>
+    <link>https://techelixir.online/</link>
     <description>Recent content on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://techelixir.online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Driven Architecture using Change Data Capture🏎️</title>
+      <link>https://techelixir.online/post/change-data-capture/</link>
+      <pubDate>Sat, 02 Sep 2023 16:51:17 +0530</pubDate>
+      
+      <guid>https://techelixir.online/post/change-data-capture/</guid>
+      <description>Last week, I had a good conversation with a CEO of a tech start-up based in Tel Aviv. The conversation revolved around the use of foriegn data wrapper in PostgreSQL for caching frequent queries, incremental materialized views for large databases and Change Data Capture(CDC) for eventual consistency in incremental materialized views. So yeah, writing this article on the most common use of CDC which is designing event driven architecture. This was a topic I had been eagerly waiting to explore ever since I first came across Debezium, which now has became the de facto standard for CDC.</description>
+    </item>
+    
     <item>
       <title>What&#39;s up with DuckDB🦆</title>
-      <link>/post/duckdb/</link>
+      <link>https://techelixir.online/post/duckdb/</link>
       <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/post/duckdb/</guid>
+      <guid>https://techelixir.online/post/duckdb/</guid>
       <description>I was exploring the vector database world after my day job when I came across ChromaDB which recently raised a seed funding of 20 mils 💸. Digging deep into chroma led me to DuckDB as these mfs at Chroma are selling a wrapper on an already matured OLAP DB (DuckDB) with hnswlib. Just for context, hnswlib is a C++/Python library for fast calculation of approximate nearest neighbors (ANN). I&amp;rsquo;ll take more about vector DBs some other day when I&amp;rsquo;ll hopefully use it in my side project.</description>
     </item>
     
     <item>
       <title>Andrew Ng&#39;s Prompt Engineering Course🧑🏻‍🎓</title>
-      <link>/post/andrew-ng-prompt-engineering/</link>
+      <link>https://techelixir.online/post/andrew-ng-prompt-engineering/</link>
       <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/post/andrew-ng-prompt-engineering/</guid>
-      <description>I wasted a day of my weekend to take up a course about writing prompt to ChatGPT🤡 Now I am writing a blog about what I learnt. I don&amp;rsquo;t know why I am doing this, I don&amp;rsquo;t why I completed that course. At this point I don&amp;rsquo;t even know what I am doing with my life. I need some serious soul-searching. I hope this is just another phase for my charater development and nothing more.</description>
+      <guid>https://techelixir.online/post/andrew-ng-prompt-engineering/</guid>
+      <description>I wasted a day of my weekend to take up a course about writing prompt to ChatGPT🤡 Now I am writing a blog about what I learnt. I don&amp;rsquo;t know why I am doing this, I don&amp;rsquo;t know why I completed that course. At this point I don&amp;rsquo;t even know what am I doing with my life. I need some serious soul-searching. I hope this is just another phase for my character development and nothing more.</description>
     </item>
     
     <item>
       <title>Why is Redis so Fast🤯</title>
-      <link>/post/why-is-redis-so-fast/</link>
+      <link>https://techelixir.online/post/why-is-redis-so-fast/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/post/why-is-redis-so-fast/</guid>
+      <guid>https://techelixir.online/post/why-is-redis-so-fast/</guid>
       <description>&amp;ldquo;If I had a dollar for every time a techie suggested Redis to use as cache, I&amp;rsquo;ll be a millionaire&amp;rdquo;
 So what is Redis and why is it so popular among developers?! By definition, Redis is an open-source, in-memory data structure store. It serves as a fast, versatile, and persistent database, capable of storing various data types like strings, lists, sets, and more. Redis&amp;rsquo;s speed and simplicity make it an excellent choice for caching, real-time applications, and various use cases requiring rapid data access and manipulation.</description>
     </item>
     
     <item>
       <title>8 Fallacies of Distributed Computing🚫</title>
-      <link>/post/fallacies-of-distributed-computing/</link>
+      <link>https://techelixir.online/post/fallacies-of-distributed-computing/</link>
       <pubDate>Sat, 15 Jul 2023 16:51:17 +0530</pubDate>
       
-      <guid>/post/fallacies-of-distributed-computing/</guid>
+      <guid>https://techelixir.online/post/fallacies-of-distributed-computing/</guid>
       <description>&amp;ldquo;Mom! I read yet another random research paper that showed up on my Linkedin feed&amp;rdquo;
 So I was scrolling through my Linkedin feed when I came across yet another post by a wanna be tech influencer. Although this time the post was much better than those senseless, out-of-context content with an asthetic selfie🤡. The post recommended few interesting papers to read, so I read one of them and here I summarise it.</description>
     </item>
     
     <item>
       <title>Why I choose Hugo for my Blog site🚀</title>
-      <link>/post/why-i-choose-hugo/</link>
+      <link>https://techelixir.online/post/why-i-choose-hugo/</link>
       <pubDate>Mon, 10 Jul 2023 16:51:17 +0530</pubDate>
       
-      <guid>/post/why-i-choose-hugo/</guid>
+      <guid>https://techelixir.online/post/why-i-choose-hugo/</guid>
       <description>&amp;ldquo;GatsbyJS brings in the power of React and GraphQL and SSR to my website&amp;rdquo;
 My dear sweet, innocent dev, do you really need this for a simple blog (which gonna be dead after 3 post)!?🤡
 In my quest for the perfect static site generator, I made a deliberate choice to utilize Hugo instead of modern JavaScript frameworks like Next.js or Gatsby. The decision was based on a multitude of reasons, starting with Hugo&amp;rsquo;s exceptional ⚡️ speed and performance.</description>

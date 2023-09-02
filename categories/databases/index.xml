@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Databases on Tech Elixir</title>
-    <link>https://techelixir.online/tags/databases/</link>
+    <link>https://techelixir.online/categories/databases/</link>
     <description>Recent content in Databases on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Sep 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://techelixir.online/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://techelixir.online/categories/databases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Driven Architecture using Change Data Capture🏎️</title>
       <link>https://techelixir.online/post/change-data-capture/</link>
@@ -23,16 +23,6 @@
       
       <guid>https://techelixir.online/post/duckdb/</guid>
       <description>I was exploring the vector database world after my day job when I came across ChromaDB which recently raised a seed funding of 20 mils 💸. Digging deep into chroma led me to DuckDB as these mfs at Chroma are selling a wrapper on an already matured OLAP DB (DuckDB) with hnswlib. Just for context, hnswlib is a C++/Python library for fast calculation of approximate nearest neighbors (ANN). I&amp;rsquo;ll take more about vector DBs some other day when I&amp;rsquo;ll hopefully use it in my side project.</description>
-    </item>
-    
-    <item>
-      <title>Why is Redis so Fast🤯</title>
-      <link>https://techelixir.online/post/why-is-redis-so-fast/</link>
-      <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
-      
-      <guid>https://techelixir.online/post/why-is-redis-so-fast/</guid>
-      <description>&amp;ldquo;If I had a dollar for every time a techie suggested Redis to use as cache, I&amp;rsquo;ll be a millionaire&amp;rdquo;
-So what is Redis and why is it so popular among developers?! By definition, Redis is an open-source, in-memory data structure store. It serves as a fast, versatile, and persistent database, capable of storing various data types like strings, lists, sets, and more. Redis&amp;rsquo;s speed and simplicity make it an excellent choice for caching, real-time applications, and various use cases requiring rapid data access and manipulation.</description>
     </item>
     
   </channel>

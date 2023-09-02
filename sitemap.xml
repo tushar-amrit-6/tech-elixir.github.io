@@ -3,107 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://techelixir.online/categories/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/tags/databases/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/categories/databases/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/post/change-data-capture/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/post/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/tags/system-design/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/categories/system-design/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/tags/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/tags/tech/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/categories/tech/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/</loc>
+    <lastmod>2023-09-02T16:51:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techelixir.online/post/duckdb/</loc>
     <lastmod>2023-08-23T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/db/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/db/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tech/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/tech/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/duckdb/</loc>
-    <lastmod>2023-08-23T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ai/</loc>
+    <loc>https://techelixir.online/tags/ai/</loc>
     <lastmod>2023-08-20T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/ai/</loc>
+    <loc>https://techelixir.online/categories/ai/</loc>
     <lastmod>2023-08-20T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/andrew-ng-prompt-engineering/</loc>
+    <loc>https://techelixir.online/post/andrew-ng-prompt-engineering/</loc>
     <lastmod>2023-08-20T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/databases/</loc>
+    <loc>https://techelixir.online/categories/distributed-systems/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/distributed-systems/</loc>
+    <loc>https://techelixir.online/categories/internals/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/internals/</loc>
+    <loc>https://techelixir.online/post/why-is-redis-so-fast/</loc>
     <lastmod>2023-08-01T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/why-is-redis-so-fast/</loc>
-    <lastmod>2023-08-01T16:51:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/fallacies-of-distributed-computing/</loc>
+    <loc>https://techelixir.online/post/fallacies-of-distributed-computing/</loc>
     <lastmod>2023-07-15T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/distributed-systems/</loc>
+    <loc>https://techelixir.online/tags/distributed-systems/</loc>
     <lastmod>2023-07-15T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://techelixir.online/tags/hugo/</loc>
     <lastmod>2023-07-10T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/why-i-choose-hugo/</loc>
+    <loc>https://techelixir.online/post/why-i-choose-hugo/</loc>
     <lastmod>2023-07-10T16:51:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>https://techelixir.online/archives/</loc>
   </url>
   
 </urlset>

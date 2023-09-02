@@ -2,53 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Tech Elixir</title>
-    <link>/categories/</link>
+    <link>https://techelixir.online/categories/</link>
     <description>Recent content in Categories on Tech Elixir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2023 16:51:17 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://techelixir.online/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DB</title>
-      <link>/categories/db/</link>
-      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
+      <title>Databases</title>
+      <link>https://techelixir.online/categories/databases/</link>
+      <pubDate>Sat, 02 Sep 2023 16:51:17 +0530</pubDate>
       
-      <guid>/categories/db/</guid>
+      <guid>https://techelixir.online/categories/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Design</title>
+      <link>https://techelixir.online/categories/system-design/</link>
+      <pubDate>Sat, 02 Sep 2023 16:51:17 +0530</pubDate>
+      
+      <guid>https://techelixir.online/categories/system-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>/categories/tech/</link>
-      <pubDate>Wed, 23 Aug 2023 16:51:17 +0530</pubDate>
+      <link>https://techelixir.online/categories/tech/</link>
+      <pubDate>Sat, 02 Sep 2023 16:51:17 +0530</pubDate>
       
-      <guid>/categories/tech/</guid>
+      <guid>https://techelixir.online/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>/categories/ai/</link>
+      <link>https://techelixir.online/categories/ai/</link>
       <pubDate>Sun, 20 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/categories/ai/</guid>
+      <guid>https://techelixir.online/categories/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Systems</title>
-      <link>/categories/distributed-systems/</link>
+      <link>https://techelixir.online/categories/distributed-systems/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/categories/distributed-systems/</guid>
+      <guid>https://techelixir.online/categories/distributed-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internals</title>
-      <link>/categories/internals/</link>
+      <link>https://techelixir.online/categories/internals/</link>
       <pubDate>Tue, 01 Aug 2023 16:51:17 +0530</pubDate>
       
-      <guid>/categories/internals/</guid>
+      <guid>https://techelixir.online/categories/internals/</guid>
       <description></description>
     </item>
     

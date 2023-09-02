@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>System Design on Tech Elixir</title>
+    <link>https://techelixir.online/categories/system-design/</link>
+    <description>Recent content in System Design on Tech Elixir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2023 16:51:17 +0530</lastBuildDate><atom:link href="https://techelixir.online/categories/system-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Driven Architecture using Change Data Capture🏎️</title>
+      <link>https://techelixir.online/post/change-data-capture/</link>
+      <pubDate>Sat, 02 Sep 2023 16:51:17 +0530</pubDate>
+      
+      <guid>https://techelixir.online/post/change-data-capture/</guid>
+      <description>Last week, I had a good conversation with a CEO of a tech start-up based in Tel Aviv. The conversation revolved around the use of foriegn data wrapper in PostgreSQL for caching frequent queries, incremental materialized views for large databases and Change Data Capture(CDC) for eventual consistency in incremental materialized views. So yeah, writing this article on the most common use of CDC which is designing event driven architecture. This was a topic I had been eagerly waiting to explore ever since I first came across Debezium, which now has became the de facto standard for CDC.</description>
+    </item>
+    
+  </channel>
+</rss>
